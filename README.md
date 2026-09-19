@@ -5,6 +5,7 @@ A curated collection of reusable prompts for AI video generation.
 ## Prompts
 
 - [女友迎接归家的男友 POV](prompts/zh-CN/girlfriend-welcomes-you-home-pov.md) — 写实 iPhone 生活抓拍风格的 10 秒单镜头亲密剧情。
+- [敦煌飞天误触 UI](prompts/zh-CN/seedance2-dunhuang-flying-apsaras-ui-mishap.md) — Seedance 2.0 参考图生视频：固定机位的写实飞天舞蹈与诙谐 UI 小事故。
 
 ## Usage
 
