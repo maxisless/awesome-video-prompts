@@ -8,6 +8,7 @@ A curated collection of reusable prompts for AI video generation.
 - [敦煌飞天误触 UI](prompts/zh-CN/dunhuang-flying-apsaras-ui-mishap.md) — 固定机位的写实飞天舞蹈与诙谐 UI 小事故。
 - [强日光下的真实皮肤微距肖像](prompts/zh-CN/sunlit-macro-skin-realism.md) — 15 秒竖屏：以自然阳光和贴脸微距展示真实成年女性皮肤质感。
 - [地铁购物屏幕变装](prompts/zh-CN/subway-shopping-screen-wardrobe-transformation.md) — 15 秒连续镜头：购物屏幕触发的地铁座位变装叙事。
+- [湖边栈道逆光环境人像](prompts/zh-CN/lakeside-boardwalk-backlit-environmental-portrait.md) — 28mm 低机位：前景芦苇遮挡、傍晚逆光与生活摄影质感。
 
 ## Usage
 
